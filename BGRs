@@ -1,0 +1,24 @@
+Design a modern Web3 fintech mobile app called "BGR Pay".
+
+Style:
+- Clean, minimal, professional fintech
+- Dark mode first
+- Color palette: deep black background (#0B0F1A), primary blue (#2563EB), white text, green accent for cashback
+- Typography: Inter or SF Pro, large titles, clear hierarchy
+
+Screens to design (iPhone 14 – 390x844):
+1. Onboarding screen with logo "BGR Pay", tagline "Pay. Earn. Control.", and a primary button "Connect Wallet"
+2. Home screen showing BGR balance card, two main actions ("Pay", "Swap"), and a cashback summary card
+3. Payment screen with amount input, token selector (BGR), and a primary button "Pay now"
+4. Success screen with confirmation icon and text "Payment successful" and "+3% BGR cashback"
+5. Finance screen with simple expense chart and monthly summary
+6. Transaction history screen with list of payments, swaps, and cashback entries
+
+Include:
+- Rounded cards
+- Soft shadows
+- Modern icons (wallet, payment, chart)
+- Clear CTA buttons
+- Consistent spacing and alignment
+
+Deliver a production-ready UI suitable for investors and early users.
